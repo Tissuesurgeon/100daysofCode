@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 
+
+/*This is the main function that generate a random index within the length of the array*/
 int get_random_index(int array_size) 
 {
 
